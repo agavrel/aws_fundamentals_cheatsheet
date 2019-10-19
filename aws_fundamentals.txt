@@ -1,0 +1,1641 @@
+r"""<div class="test-option" id="ques1">
+<b>1. What does a comprehensive data policy include?</b>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques0" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Wiping, disposing, retention, and storage </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques0" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Disposing, patching, retention, and storage </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques0" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Retention, storage, disposing, and virtualization </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques0" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Storage, virtualization, wiping, and elasticity </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (a): A comprehensive data policy includes wiping, disposing, retention, and storage.</p>
+</article>
+<div class="test-option" id="ques2">
+<b>2. Which of the following is true about NoSQL and SQL?</b>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques1" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+NoSQL and SQL support ACID properties. </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques1" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+NoSQL and SQL are relational databases. </label>
+</div>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques1" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+NoSQL and SQL handle transactions. </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques1" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+NoSQL and SQL implement dynamic schemas. </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (c): NoSQL and SQL handle transactions.</p>
+</article>
+<div class="test-option" id="ques3">
+<b>3. A leading IT firm in Manhattan faces lot of network traffic issues. What should it use to ease these issues?</b>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques2" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Amazon CloudWatch </label>
+</div>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques2" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Amazon Elastic Load Balancing </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques2" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Amazon Elastic Compute Cloud </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques2" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Amazon CloudFront </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (b): Elastic Load Balancing, or ELB, service disseminates the network traffic across a group of virtual servers.</p>
+</article>
+<div class="test-option" id="ques4">
+<b>4. ABC company wants to use network services that would implement its code from Amazon EC2 instances on the virtual servers. What should the company use?</b>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques3" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+AWS Lambda </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques3" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Amazon Machine Image </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques3" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Auto Scaling Service </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques3" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Elastic Load Balancing </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (a): AWS Lambda service implements the code from Amazon EC2 instances on the virtual servers, in response to a triggered event.</p>
+</article>
+<div class="test-option" id="ques5">
+<b>5. MultiPan, a small company with huge clientele, was facing a storage crunch, and it wants the resources to be connected to the Internet. What is the ideal solution?</b>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques4" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Public Subnets </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques4" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Private Subnets </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques4" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Load Balancer </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques4" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Amazon Route 53 </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (a): Public Subnets are ideal in an environment where the resources are required to be connected to the Internet.</p>
+</article>
+<div class="test-option" id="ques6">
+<b>6. If a company wants to use the DNS Web service, what is the appropriate option?</b>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques5" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Instances and Amazon Machine Image </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques5" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Virtual Private Cloud </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques5" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Security Groups </label>
+</div>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques5" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Amazon Route 53 Hosted Zones </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (d): Amazon Route 53, a DNS Web service, is scalable, highly available, and a cost-effective medium to direct the visitors to a website, a virtual server, or a load balancer.</p>
+</article>
+<div class="test-option" id="ques7">
+<b>7. To retain application availability, you should use.</b>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques6" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Load Balancer </label>
+</div>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques6" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Auto Scaling Groups </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques6" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Amazon Route 53 Hosted Zones </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques6" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Security Groups </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>d</p>
+</article>
+<div class="test-option" id="ques8">
+<b>8. How does an Elastic Load Balancer enable higher fault-tolerance level?</b>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques7" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Creating subnets </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques7" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Open or terminate instances </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques7" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Creating the group of instances </label>
+</div>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques7" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Dividing instances into several Availability Zones </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (d): A Load Balancer is responsible for distributing the network traffic across Amazon EC2 instances in different Availability Zones, which enables you to accomplish a higher fault-tolerance level.</p>
+</article>
+<div class="test-option" id="ques9">
+<b>9. In case of a disaster, which of the following activities will you perform?</b>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques8" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Expand your datacenter </label>
+</div>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques8" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Launch the replacement compute capacity </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques8" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Scalable computing capacity servers </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques8" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Backup your mission critical data </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (b): Quickly launch the replacement compute capacity in the cloud for business continuity. After the disaster, restore your data to the data center, and terminate the EC2 instances.</p>
+</article>
+<div class="test-option" id="ques10">
+<b>10. ABC company wants Web services that offer scalable computing capacity servers. What should the company choose?</b>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques9" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Amazon EC2 </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques9" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Amazon Route 53 Hosted Zones </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques9" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Auto Scaling Groups </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques9" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Load Balancer </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (a): Amazon EC2 is a Web service that offers scalable computing capacity servers in the AWS data centers.</p>
+</article>
+<div class="test-option" id="ques11">
+<b>11. XYZ company wants instance types for high-performance databases, genome analysis, Microsoft SharePoint, distributed caches, and in-memory analytics. Identify the best option.</b>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques10" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+General Purpose </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques10" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Compute Optimized </label>
+</div>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques10" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Memory Optimized </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques10" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Input/Output Instances </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (c): Memory optimized instance types contains only R3 instances. These instances are optimized to run memory-intensive programs such as high performance databases, genome analysis, Microsoft SharePoint, distributed caches, and in-memory analytics.</p>
+</article>
+<div class="test-option" id="ques12">
+<b>12. What are the uses of T2 instances?</b>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques11" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Shares resources </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques11" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Batch processing workloads </label>
+</div>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques11" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Workloads on small databases </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques11" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Launches an instance </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (c): T2 instances are used for workloads on small databases, Web Servers, low-traffic sites, and development environments.</p>
+</article>
+<div class="test-option" id="ques13">
+<b>13. What instance type will you recommend if your organization wants high frequency processors?</b>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques12" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+M3 </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques12" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+M2 </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques12" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+T2 </label>
+</div>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques12" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+C3 </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (d): The C3 instance type offers high frequency processors for enhanced networking, clustering, and instance storage.</p>
+</article>
+<div class="test-option" id="ques14">
+<b>14. Which of these platforms does Amazon EC2 support?</b>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques13" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+C3 dot large and C3 dot 8xlarge </label>
+</div>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques13" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+EC2 Classic and EC2 VPC </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques13" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+D2 dot 2xlarge and D2 dot 8xlarge </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques13" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Input/Output instances </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (b): Amazon EC2 supports two platforms, namely EC2 Classic and EC2 VPC.</p>
+</article>
+<div class="test-option" id="ques15">
+<b>15. Amy wants to use the highest performing processor at the lowest price in Amazon EC2. What should she choose?</b>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques14" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+M4 </label>
+</div>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques14" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+C4 </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques14" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+M3 </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques14" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+M2 </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (b): The C4 instance type offers the highest performing processors at the lowest price in Amazon EC2. Examples include, C4 dot large, and C4 dot 8xlarge.</p>
+</article>
+<div class="test-option" id="ques16">
+<b>16. Elina is a business traveler, and she wants to download the AWS Console app. Select the option that does NOT allow this.</b>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques15" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Blackberry store </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques15" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Amazon app store </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques15" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Google play store </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques15" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+iTunes </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (a): A user can download the AWS Console app from all the other options except "a," that is, Blackberry store.</p>
+</article>
+<div class="test-option" id="ques17">
+<b>17. Daniel wants to store his website data and also needs a user-friendly interface. Which of the following will suit Daniel's demand?</b>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques16" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Amazon S3 </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques16" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Amazon CloudFront </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques16" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Amazon Glacier </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques16" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Amazon Gateway </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (a): Amazon S3 provides safe and secure object storage to developers. It has a user-friendly interface that helps store and access any amount of data any time.</p>
+</article>
+<div class="test-option" id="ques18">
+<b>18. Which of the following does the AWS Import/Export service support?</b>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques17" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+EC2 instance </label>
+</div>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques17" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+AWS Import/Export Disk </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques17" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Amazon S3 </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques17" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Amazon EBS </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (b): AWS Import/Export service supports features such as AWS Import/Export Snowball and AWS Import/Export Disk.</p>
+</article>
+<div class="test-option" id="ques19">
+<b>19. AWS wanted to examine the customer's AWS environment, identify security gaps, and fill them. Which of these tools was used to solve the issue automatically?</b>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques18" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Trusted Guide </label>
+</div>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques18" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Trusted Advisor </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques18" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Trusted Counselor </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques18" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Trusted Controller </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (b): AWS offers "Trusted Advisor", an online tool to automatically examine the customer?s AWS environment, identify security gaps, and fill them.</p>
+</article>
+<div class="test-option" id="ques20">
+<b>20. Which of the following provides non-stop monitoring, logging, and auditing of physical access controls?</b>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques19" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Compliance </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques19" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Security Tools </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques19" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Expert Guidance </label>
+</div>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques19" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Physical Security </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (d): The AWS team undertakes the key measure for providing non-stop monitoring, logging, and auditing of physical access controls.</p>
+</article>
+<div class="test-option" id="ques21">
+<b>21. Which of the following is a scalable and an economical amalgamation of your office IT and AWS storage infrastructure?</b>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques20" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+AWS Storage Gateway </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques20" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+AWS Gateway-cached Volume </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques20" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+AWS EC2 </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques20" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+AWS Import/Export </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (a): AWS Storage Gateway is a scalable and an economical amalgamation of your office IT and AWS storage infrastructure.</p>
+</article>
+<div class="test-option" id="ques22">
+<b>22. Anna wants to create users and groups in AWS service. Which of the following will perform the task?</b>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques21" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Virtual Private Cloud </label>
+</div>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques21" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Identity and Access Management </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques21" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Security Groups </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques21" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Compliance </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (b): The IAM service enables to create users and groups, define roles, set IAM access control policies, and define group functions related to user management.</p>
+</article>
+<div class="test-option" id="ques23">
+<b>23. Which of the following was the first service offered by Amazon to transfer data?</b>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques22" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+AWS Import/Export </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques22" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Snowball </label>
+</div>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques22" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Disk </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques22" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+AWS EFS </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (c): Disk was the first service offered by Amazon to transfer data using UPS or mail.</p>
+</article>
+<div class="test-option" id="ques24">
+<b>24. While researching on the Availability Zones of AWS expansion, Elliot wanted to know the upcoming regions. Selecting the correct region or regions.</b>
+<div class="form-checkbox form-control-wrapper">
+<label class="test-right-ans">
+<input type="checkbox" disabled >
+<span class="checkbox-material"><span class="check"></span></span>
+India </label>
+</div>
+<div class="form-checkbox form-control-wrapper">
+<label class="test-right-ans">
+<input type="checkbox" disabled >
+<span class="checkbox-material"><span class="check"></span></span>
+The United Kingdom </label>
+</div>
+<div class="form-checkbox form-control-wrapper">
+<label class="">
+<input type="checkbox" disabled >
+<span class="checkbox-material"><span class="check"></span></span>
+South Africa </label>
+</div>
+<div class="form-checkbox form-control-wrapper">
+<label class="">
+<input type="checkbox" disabled >
+<span class="checkbox-material"><span class="check"></span></span>
+South America </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (a, b): India, Montreal in Canada, Ningxia in China, Ohio in North America, and, The United Kingdom are the upcoming AWS regions.</p>
+</article>
+<div class="test-option" id="ques25">
+<b>25. Paul wanted to isolate a section of the AWS cloud, and launch AWS resources in a defined virtual network. Which of these options should he choose?</b>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques24" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Shared Responsibility Model </label>
+</div>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques24" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Virtual Private Cloud </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques24" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Trusted Guide </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques24" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Security Tools </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (b): Amazon Virtual Private Cloud, or VPC helps you logically isolate a section of the AWS cloud, and launch AWS resources in a defined virtual network.</p>
+</article>
+<div class="test-option" id="ques26">
+<b>26. With the decision to store data in Amazon Glacier,the Ahana group of companies came across one of the used cases. Identify the used case from the following.</b>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques25" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Deleting Data </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques25" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Restoring Data </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques25" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+History List </label>
+</div>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques25" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Back up media assets </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (d): Amazon Glacier supports the used cases like archiving off-site enterprise information, backing up media assets, storing research and scientific data, preserving digital data, and replacing magnetic tapes.</p>
+</article>
+<div class="test-option" id="ques27">
+<b>27. ABC, a public record managing firm, wanted to transfer huge amount of data. Since, it was for public records, they needed some solution that would not charge them much. Which of the following is the most suitable for them?</b>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques26" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Snowball </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques26" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+AWS Import/Export Disk </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques26" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Virtual Tape Library </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques26" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Virtual Tape Shelf </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (a): Snowball is a cost-effective data transfer solution, which is capable of transferring up to 50 terabytes of data, and is five times cheaper than a high-speed Internet connection.</p>
+</article>
+<div class="test-option" id="ques28">
+<b>28. What is used for applications and databases where there is significant amount of traffic?</b>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques27" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Optimized EC 2 instances </label>
+</div>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques27" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Provisioned IOPS </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques27" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+General Purpose IOPS </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques27" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Amazon Elastic Block Storage </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (b): Provisioned IOPS is used for applications and databases where there is significant amount of traffic.</p>
+</article>
+<div class="test-option" id="ques29">
+<b>29. Direct Attached Storage is a type of _____.</b>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques28" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Cloud Storage </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques28" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Gateway Storage </label>
+</div>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques28" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Traditional Storage </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques28" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Hard Disk Storage </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>d</p>
+</article>
+<div class="test-option" id="ques30">
+<b>30. ______ means that the storage is temporary, and its contents can be lost when the system is rebooted.</b>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques29" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Ephemeral </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques29" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+AttachVolume </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques29" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+EBS Volume </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques29" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+General Purpose IOPS </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>d</p>
+</article>
+<div class="test-option" id="ques31">
+<b>31. Which of the following will XYZ company use to transfer its website to one type of cloud while its brochure is on another?</b>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques30" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Virtual Cloud </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques30" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Private Cloud </label>
+</div>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques30" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Hybrid Cloud </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques30" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Public Cloud </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (c): Through hybrid cloud, a company is able to retain control over an internally managed private cloud, while depending on the public cloud, when required. For example, during peak time, you can migrate a few applications to the public cloud.</p>
+</article>
+<div class="test-option" id="ques32">
+<b>32. St. Philip University wanted to use AWS service that would create and provision AWS resources. Suggest the appropriate options from the following.</b>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques31" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+AWS CloudFormation </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques31" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Amazon CloudFront </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques31" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Amazon CloudWatch </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques31" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Amazon S3 </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (a): AWS CloudFormation refers to a service that creates and provisions your AWS resources.</p>
+</article>
+<div class="test-option" id="ques33">
+<b>33. CloudFormation Components Templates has a format that conforms to the ____.</b>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques32" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+HTTP </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques32" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+MySQL </label>
+</div>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques32" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+JavaScript Object Notation </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques32" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+HTML </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>d</p>
+</article>
+<div class="test-option" id="ques34">
+<b>34. What does Stack as single unit mean?</b>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques33" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+CloudFormation service rolls back the stack or deletes </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques33" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Blueprint for creating and configuring resources </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques33" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Develop highly scalable, reliable, and lucrative applications </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques33" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Identifies the dependent resources </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (a): AWS CloudFormation service rolls back the stack or deletes any created resources if even one resource fails to successfully create itself.</p>
+</article>
+<div class="test-option" id="ques35">
+<b>35. Which of the following is NOT a certification of the AWS IT infrastructure?</b>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques34" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+US International Traffic in Arms Regulations or ITAR </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques34" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Service Organization Control or SOC 1, SOC 2, and SOC 3 </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques34" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Criminal Justice Information Services or CJIS </label>
+</div>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques34" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Risk and Information Systems Control </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (d): Risk and Information Systems Control is just and IT Certification.</p>
+</article>
+<div class="test-option" id="ques36">
+<b>36. Which of the followin can Merrin, a new user to the Amazon Web Service, use to access the provided service?</b>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques35" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+AWS Software Development Kits </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques35" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+AWS Hardware Development Kits </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques35" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+AWS Instructor line tool </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques35" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+AWS Enquiry API?s </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (a): User can access Amazon Web Services through Management Console, Command Line Interface, Command Line Tools, AWS Software Development Kits, and Query APIs.</p>
+</article>
+<div class="test-option" id="ques37">
+<b>37. Which of the following can automatically scale resources?</b>
+<div class="form-checkbox form-control-wrapper">
+<label class="test-right-ans">
+<input type="checkbox" disabled >
+<span class="checkbox-material"><span class="check"></span></span>
+Auto Scaling </label>
+</div>
+<div class="form-checkbox form-control-wrapper">
+<label class="">
+<input type="checkbox" disabled >
+<span class="checkbox-material"><span class="check"></span></span>
+Auto Measuring </label>
+</div>
+<div class="form-checkbox form-control-wrapper">
+<label class="">
+<input type="checkbox" disabled >
+<span class="checkbox-material"><span class="check"></span></span>
+Elastic File System </label>
+</div>
+<div class="form-checkbox form-control-wrapper">
+<label class="test-right-ans">
+<input type="checkbox" disabled >
+<span class="checkbox-material"><span class="check"></span></span>
+Elastic Load Balancing </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (a, d): AWS techniques such as auto scaling and elastic load balancing can automatically scale resources.</p>
+</article>
+<div class="test-option" id="ques38">
+<b>38. If you can specify input parameters, and you can determine their values at the time of creating the stack, it means you are _____.</b>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques37" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Reusing Templates </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques37" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Deleting Template </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques37" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Reusing Stack </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques37" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Deleting Stack </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>d</p>
+</article>
+<div class="test-option" id="ques39">
+<b>39. ABC company wants to monitor cloud resources, such as Amazon EC2 and Amazon RDS instances, and applications. What services it should use?</b>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques38" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Amazon Glacier </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques38" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Amazon CloudFront </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques38" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Amazon Elastic File System </label>
+</div>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques38" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Amazon CloudWatch </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (d): Amazon CloudWatch refers to a service that allows real-time monitoring of your cloud resources such as, Amazon EC2 and Amazon RDS instances, and applications.</p>
+</article>
+<div class="test-option" id="ques40">
+<b>40. How can you use Amazon CloudWatch?</b>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques39" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Amazon Simple Storage Service </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques39" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Amazon Route 53 </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques39" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Amazon Virtual Private Cloud </label>
+</div>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques39" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+AWS Free Tier </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (d): You can start using Amazon CloudWatch under the AWS Free Tier. The Free Tier includes 3 dashboards with 50 metrics each, 10 alarms, 10 detailed monitoring metrics, and 1 million API requests, without any demand for price.</p>
+</article>
+<div class="test-option" id="ques41">
+<b>41. Which of the following clouds is a mix of public and private cloud services?</b>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques40" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Private Cloud </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques40" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Public Cloud </label>
+</div>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques40" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Hybrid Cloud </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques40" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Virtual Cloud </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (c): A hybrid cloud is a mix of public and private cloud services offered by multiple providers.</p>
+</article>
+<div class="test-option" id="ques42">
+<b>42. Amazon Web Services is Amazon's cloud computing environment that offers benefits of _____.</b>
+<div class="form-checkbox form-control-wrapper">
+<label class="test-right-ans">
+<input type="checkbox" disabled >
+<span class="checkbox-material"><span class="check"></span></span>
+Economies of scale </label>
+</div>
+<div class="form-checkbox form-control-wrapper">
+<label class="test-right-ans">
+<input type="checkbox" disabled >
+<span class="checkbox-material"><span class="check"></span></span>
+Scalability </label>
+</div>
+<div class="form-checkbox form-control-wrapper">
+<label class="">
+<input type="checkbox" disabled >
+<span class="checkbox-material"><span class="check"></span></span>
+Total free Service </label>
+</div>
+<div class="form-checkbox form-control-wrapper">
+<label class="">
+<input type="checkbox" disabled >
+<span class="checkbox-material"><span class="check"></span></span>
+50 gigabytes free service </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>d</p>
+</article>
+<div class="test-option" id="ques43">
+<b>43. Magnetic storage is a persistent type of slower, older _____.</b>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques42" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Elastic File System </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques42" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Simple Storage </label>
+</div>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques42" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Elastic Block Storage </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques42" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Amazon Glazier </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>d</p>
+</article>
+<div class="test-option" id="ques44">
+<b>44. Virtual Tape Library provides users with an unlimited __________.</b>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques43" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Collection of device spaces </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques43" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Collection of tape library </label>
+</div>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques43" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Collection of virtual tapes </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques43" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Device Space </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Virtual Tape Library provides users with an unlimited collection of virtual tapes. It provides and lets the user control an existing tape-based backup application</p>
+</article>
+<div class="test-option" id="ques45">
+<b>45. Which of the following are the current list of service groups in the All AWS Services section?</b>
+<div class="form-checkbox form-control-wrapper">
+<label class="test-right-ans">
+<input type="checkbox" disabled >
+<span class="checkbox-material"><span class="check"></span></span>
+Networking </label>
+</div>
+<div class="form-checkbox form-control-wrapper">
+<label class="">
+<input type="checkbox" disabled >
+<span class="checkbox-material"><span class="check"></span></span>
+Transaction </label>
+</div>
+<div class="form-checkbox form-control-wrapper">
+<label class="test-right-ans">
+<input type="checkbox" disabled >
+<span class="checkbox-material"><span class="check"></span></span>
+Analytics </label>
+</div>
+<div class="form-checkbox form-control-wrapper">
+<label class="">
+<input type="checkbox" disabled >
+<span class="checkbox-material"><span class="check"></span></span>
+Mirroring </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>d</p>
+</article>
+<div class="test-option" id="ques46">
+<b>46. Which of the following is a singular feature of AWS?</b>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques45" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Resilient organizational structure </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques45" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Resilient institutional structure </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques45" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Resilient industrial structure </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques45" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Resilient Administrative structure </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (a): A striking feature of AWS is its resilient organizational structure.</p>
+</article>
+<div class="test-option" id="ques47">
+<b>47. Which of the following is granted according to the least privileged criteria?</b>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques46" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Granted access </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques46" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Private access </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques46" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Specialized access </label>
+</div>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques46" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Authorized access </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (d): Only authorized access is granted as per the least privileged criteria.</p>
+</article>
+<div class="test-option" id="ques48">
+<b>48. Which is the vital feature on Navigation Bar?</b>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques47" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+AWS Availability Zone </label>
+</div>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques47" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+AWS Region </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques47" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+AWS Menu bar </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques47" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+AWS Access Control </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (b): AWS Region is another vital feature on the Navigation Bar.</p>
+</article>
+<div class="test-option" id="ques49">
+<b>49. The security of global infrastructure services run in which of the following cloud?</b>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques48" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Security ?OF? the cloud </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques48" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Security ?IN? the cloud </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques48" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Security ?OUT? the cloud </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques48" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Security ?ON? the cloud </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (a): In Shared Responsibility Model AWS undertakes security of the global infrastructure for services that run in the cloud, referred to as security ?OF? the cloud.</p>
+</article>
+<div class="test-option" id="ques50">
+<b>50. Amazon DynamoDB, as a part of Amazon Web Services, refers to a service that offers _____.</b>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques49" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+SQL database </label>
+</div>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques49" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+NoSQL databases </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques49" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Data Models </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques49" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Solid State Disks </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>d</p>
+</article>
+<div class="test-option" id="ques51">
+<b>51. What is the other name for attributes?</b>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques50" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Series </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques50" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Indexes </label>
+</div>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques50" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Fields </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques50" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Keys </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (c): The attributes are also called columns or fields.</p>
+</article>
+<div class="test-option" id="ques52">
+<b>52. Which of the following is a type Primary Key?</b>
+<div class="form-checkbox form-control-wrapper">
+<label class="test-right-ans">
+<input type="checkbox" disabled >
+<span class="checkbox-material"><span class="check"></span></span>
+Partition Key </label>
+</div>
+<div class="form-checkbox form-control-wrapper">
+<label class="">
+<input type="checkbox" disabled >
+<span class="checkbox-material"><span class="check"></span></span>
+Primary Key </label>
+</div>
+<div class="form-checkbox form-control-wrapper">
+<label class="">
+<input type="checkbox" disabled >
+<span class="checkbox-material"><span class="check"></span></span>
+Sort key </label>
+</div>
+<div class="form-checkbox form-control-wrapper">
+<label class="test-right-ans">
+<input type="checkbox" disabled >
+<span class="checkbox-material"><span class="check"></span></span>
+Composite Sort Key </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (a, d): DynamoDB allows specifying the two types of primary keys like, Partition Key and Composite Sort Key.</p>
+</article>
+<div class="test-option" id="ques53">
+<b>53. Which of the following Dynamo data types includes a string set, a binary set, and a number set?</b>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques52" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+scalar </label>
+</div>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques52" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+set </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques52" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+document </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques52" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+None of the above </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (b): Amazon DynamoDB supports three major categories of data types. Set is a data types that includes a string set, a binary set, and a number set.</p>
+</article>
+<div class="test-option" id="ques54">
+<b>54. Which of the following has a unique decimal number or a code point?</b>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques53" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Binary code Character </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques53" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Tertiary Code Character </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques53" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Primary Code Character </label>
+</div>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques53" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Unicode character </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (d): Each Unicode character has a unique decimal number or a code point.</p>
+</article>
+<div class="test-option" id="ques55">
+<b>55. True or False is an attribute of _____.</b>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques54" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Binary </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques54" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Null </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques54" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Strings </label>
+</div>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques54" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Boolean </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>A Boolean type attribute can have one of the two values namely, True or False.</p>
+</article>
+<div class="test-option" id="ques56">
+<b>56. Which of the following services creates and provisions AWS resources?</b>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques55" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+AWS CloudWatch </label>
+</div>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques55" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+AWS CloudFormation </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques55" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+AWS Identity and Access Management </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques55" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+AWS CloudFront </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (b): AWS CloudFormation refers to a service that creates and provisions your AWS resources.</p>
+</article>
+<div class="test-option" id="ques57">
+<b>57. What offers profitable, resizable capacity for your databases?</b>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques56" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Amazon Relational Database Service </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques56" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Amazon DynamoDB </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques56" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Amazon Security groups </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques56" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+All of the above </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answers (a): Relational Database Service offers profitable, resizable capacity for your databases.</p>
+</article>
+<div class="test-option" id="ques58">
+<b>58. A(n)_____ aims to control access to a DB instance.</b>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques57" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Security group </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques57" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Parameter group </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques57" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Options group </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques57" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+DynamoDB group </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>d</p>
+</article>
+<div class="test-option" id="ques59">
+<b>59. What is applied to a DB instance if you do not specify the desired parameter group while creating the instance?</b>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques58" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Options group </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques58" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Security group </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques58" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+DynamoDB group </label>
+</div>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques58" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Parameter group </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (d): A parameter group is applied to a DB instance, if you do not specify your desired parameter group while creating the instance.</p>
+</article>
+<div class="test-option" id="ques60">
+<b>60. Through which option does Amazon maintain a synchronous reserved replica of that DB instance?</b>
+<div class="form-radio radio-success">
+<label class="test-right-ans">
+<input type="radio" disabled name="test_ques59" value="0" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Deployment </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques59" value="1" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Positioning </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques59" value="2" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Placement </label>
+</div>
+<div class="form-radio radio-success">
+<label class="">
+<input type="radio" disabled name="test_ques59" value="3" _flx1_12_1="1" _flx1_13_1="1"><span class="circle"></span><span class="check"></span>
+Distribution </label>
+</div>
+</div>
+<article class="test-note explanation-bottom-border">
+<b>Explanation:</b>
+<p>Answer (a): Through this deployment option, Amazon maintains a synchronous reserved replica of that DB instance in another Availability Zone.</p>
+</article>
+</div>"""
