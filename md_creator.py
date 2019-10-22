@@ -20,21 +20,20 @@ for i in range(len(blocks)):
     pattern = '<\/span>\n\t?(.*?) <\/label>'
     option[i] = list(re.findall(pattern, blocks[i], flags = re.M|re.S))
     pattern = '<label class="test-right-ans">.*?<\/span>\n\t?(.*?) <\/label>'
-    answ[i] = list(re.findall(pattern, blocks[i], flags = re.M|re.S))
-    pattern = '(?<=Explanation:<\/b>\n\t<p>)(.*)(?=<\/p>)'
-
+    answ[i] = re.search(pattern, blocks[i], flags = re.M|re.S).group(1)
+    pattern = 'Explanation:<\/b>\n\t?<p>(.*)<\/p>'
+    explanation[i] = re.search(pattern, blocks[i], flags = re.M|re.S)
     c = 97
     data += '\n### Question ' + str(i + 1) + '\n' + ques[i] + '  \n' #print( '\n### Question ' + str(i + 1) + '\n' + ques[i])
     for f in option[i]:
-        data += '* ' + chr(c) + ') ' + f + '  \n' #print(chr(c) + ') ' + f)
+        if f != answ[i]:
+            data += '* ' + chr(c) + ') ' + f + '  \n' #print(chr(c) + ') ' + f)
+        else:
+            data += '* **' + chr(c) + ') ' + f + '**  \n'
         c += 1
-    for f in answ[i]:
-        data += '\n**' + f + '**' + '  \n'   # print('*' + f + '*')
-    tmp = re.search(pattern, blocks[i], flags = re.M|re.S)
-    if tmp:
-        explanation[i] = tmp.group(1)
-        if (len(explanation[i]) != 1):
-            data += '*' + explanation[i] + '*  \n' # print(explanation[i])
+    #data += '\n**' + answ[i] + '**' + '  \n'   # print('*' + f + '*')
+    if explanation[i]:
+        data += '\n_' + explanation[i].group(1) + '_  \n\n' # print(explanation[i])
 
 with open('README.md', 'w') as f:
     f.write(data)
