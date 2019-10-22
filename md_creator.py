@@ -24,7 +24,7 @@ for i in range(len(blocks)):
     pattern = 'Explanation:<\/b>\n\t?<p>(.*)<\/p>'
     explanation[i] = re.search(pattern, blocks[i], flags = re.M|re.S)
     c = 97
-    data += '\n### Question ' + str(i + 1) + '\n' + ques[i] + '  \n' #print( '\n### Question ' + str(i + 1) + '\n' + ques[i])
+    data += '\n### Question ' + str(i + 1) + ' - ' + ques[i] + '  \n' #print( '\n### Question ' + str(i + 1) + '\n' + ques[i])
     for f in option[i]:
         if f != answ[i]:
             data += '* ' + chr(c) + ') ' + f + '  \n' #print(chr(c) + ') ' + f)
@@ -33,7 +33,7 @@ for i in range(len(blocks)):
         c += 1
     #data += '\n**' + answ[i] + '**' + '  \n'   # print('*' + f + '*')
     if explanation[i]:
-        data += '\n_' + explanation[i].group(1) + '_  \n\n' # print(explanation[i])
+        data += '\n_' + explanation[i].group(1) + '_  <br/><br/><br/>\n' # print(explanation[i])
 
 with open('README.md', 'w') as f:
     f.write(data)
