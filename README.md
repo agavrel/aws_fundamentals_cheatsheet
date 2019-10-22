@@ -53,8 +53,7 @@ _Answer (d): Amazon Route 53, a DNS Web service, is scalable, highly available, 
 * **b) Auto Scaling Groups**  
 * c) Amazon Route 53 Hosted Zones  
 * d) Security Groups  
-
-_d_  <br/><br/><br/>
+<br/><br/><br/>
 
 ### Question 8 - How does an Elastic Load Balancer enable higher fault-tolerance level?  
 * a) Creating subnets  
@@ -229,16 +228,14 @@ _Answer (b): Provisioned IOPS is used for applications and databases where there
 * b) Gateway Storage  
 * **c) Traditional Storage**  
 * d) Hard Disk Storage  
-
-_d_  <br/><br/><br/>
+<br/><br/><br/>
 
 ### Question 30 - ______ means that the storage is temporary, and its contents can be lost when the system is rebooted.  
 * **a) Ephemeral**  
 * b) AttachVolume  
 * c) EBS Volume  
 * d) General Purpose IOPS  
-
-_d_  <br/><br/><br/>
+<br/><br/><br/>
 
 ### Question 31 - Which of the following will XYZ company use to transfer its website to one type of cloud while its brochure is on another?  
 * a) Virtual Cloud  
@@ -261,8 +258,7 @@ _Answer (a): AWS CloudFormation refers to a service that creates and provisions 
 * b) MySQL  
 * **c) JavaScript Object Notation**  
 * d) HTML  
-
-_d_  <br/><br/><br/>
+<br/><br/><br/>
 
 ### Question 34 - What does Stack as single unit mean?  
 * **a) CloudFormation service rolls back the stack or deletes**  
@@ -301,8 +297,7 @@ _Answer (a, d): AWS techniques such as auto scaling and elastic load balancing c
 * b) Deleting Template  
 * c) Reusing Stack  
 * d) Deleting Stack  
-
-_d_  <br/><br/><br/>
+<br/><br/><br/>
 
 ### Question 39 - ABC company wants to monitor cloud resources, such as Amazon EC2 and Amazon RDS instances, and applications. What services it should use?  
 * a) Amazon Glacier  
@@ -333,16 +328,14 @@ _Answer (c): A hybrid cloud is a mix of public and private cloud services offere
 * b) Scalability  
 * c) Total free Service  
 * d) 50 gigabytes free service  
-
-_d_  <br/><br/><br/>
+<br/><br/><br/>
 
 ### Question 43 - Magnetic storage is a persistent type of slower, older _____.  
 * a) Elastic File System  
 * b) Simple Storage  
 * **c) Elastic Block Storage**  
 * d) Amazon Glazier  
-
-_d_  <br/><br/><br/>
+<br/><br/><br/>
 
 ### Question 44 - Virtual Tape Library provides users with an unlimited __________.  
 * a) Collection of device spaces  
@@ -357,8 +350,7 @@ _Virtual Tape Library provides users with an unlimited collection of virtual tap
 * b) Transaction  
 * c) Analytics  
 * d) Mirroring  
-
-_d_  <br/><br/><br/>
+<br/><br/><br/>
 
 ### Question 46 - Which of the following is a singular feature of AWS?  
 * **a) Resilient organizational structure**  
@@ -397,8 +389,7 @@ _Answer (a): In Shared Responsibility Model AWS undertakes security of the globa
 * **b) NoSQL databases**  
 * c) Data Models  
 * d) Solid State Disks  
-
-_d_  <br/><br/><br/>
+<br/><br/><br/>
 
 ### Question 51 - What is the other name for attributes?  
 * a) Series  
@@ -461,8 +452,7 @@ _Answers (a): Relational Database Service offers profitable, resizable capacity 
 * b) Parameter group  
 * c) Options group  
 * d) DynamoDB group  
-
-_d_  <br/><br/><br/>
+<br/><br/><br/>
 
 ### Question 59 - What is applied to a DB instance if you do not specify the desired parameter group while creating the instance?  
 * a) Options group  

@@ -32,8 +32,9 @@ for i in range(len(blocks)):
             data += '* **' + chr(c) + ') ' + f + '**  \n'
         c += 1
     #data += '\n**' + answ[i] + '**' + '  \n'   # print('*' + f + '*')
-    if explanation[i]:
-        data += '\n_' + explanation[i].group(1) + '_  <br/><br/><br/>\n' # print(explanation[i])
+    if explanation[i] and len(explanation[i].group(1)) > 4:
+        data += '\n_' + explanation[i].group(1) + '_  ' # print(explanation[i])
+    data += '<br/><br/><br/>\n'
 
 with open('README.md', 'w') as f:
     f.write(data)
